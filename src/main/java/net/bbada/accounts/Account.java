@@ -13,7 +13,6 @@ import java.util.Date;
 @Getter
 @Setter
 public class Account {
-
     @Id @GeneratedValue
     private Long id;
 
