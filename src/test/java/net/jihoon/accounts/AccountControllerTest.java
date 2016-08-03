@@ -1,7 +1,7 @@
 package net.jihoon.accounts;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import net.bbada.Application;
+import net.jihoon.Application;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
