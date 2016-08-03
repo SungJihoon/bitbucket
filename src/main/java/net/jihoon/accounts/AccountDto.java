@@ -1,4 +1,4 @@
-package net.bbada.accounts;
+package net.jihoon.accounts;
 
 import lombok.Data;
 import org.hibernate.validator.constraints.NotBlank;

@@ -1,10 +1,6 @@
-package net.bbada.commons;
+package net.jihoon.commons;
 
-import net.bbada.accounts.UserDuplicatedException;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
-import org.springframework.web.bind.annotation.ExceptionHandler;
 
 /**
  * Created by Jihoon Sung on 2016-07-31.

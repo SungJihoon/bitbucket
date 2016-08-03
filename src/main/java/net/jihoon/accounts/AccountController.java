@@ -1,6 +1,6 @@
-package net.bbada.accounts;
+package net.jihoon.accounts;
 
-import net.bbada.commons.ErrorResponse;
+import net.jihoon.commons.ErrorResponse;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

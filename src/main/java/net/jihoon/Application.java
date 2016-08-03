@@ -1,4 +1,4 @@
-package net.bbada;
+package net.jihoon;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.boot.SpringApplication;

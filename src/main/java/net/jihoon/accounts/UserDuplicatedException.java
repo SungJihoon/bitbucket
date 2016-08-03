@@ -1,4 +1,4 @@
-package net.bbada.accounts;
+package net.jihoon.accounts;
 
 /**
  * Created by Jihoon Sung on 2016-07-06.

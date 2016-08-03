@@ -1,4 +1,4 @@
-package net.bbada.commons;
+package net.jihoon.commons;
 
 import lombok.Data;
 

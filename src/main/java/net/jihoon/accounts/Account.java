@@ -1,4 +1,4 @@
-package net.bbada.accounts;
+package net.jihoon.accounts;
 
 import lombok.Getter;
 import lombok.Setter;
